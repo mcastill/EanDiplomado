@@ -1,5 +1,5 @@
 # EanDiplomado
-Diplomado EAN
+Diplomatura Analítica de datos-AVON
 
 Objetivo 
 Desarrollar habilidades en SqlServer para el manejo, consulta y análisis efectivo de datos en base de datos relacionales.
